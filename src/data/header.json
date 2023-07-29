@@ -1,0 +1,8 @@
+[
+  {"name":"home", "path":"/","id":"1"},
+  {"name":"courses", "path":"/courses","id":"2"},
+  {"name":"groups", "path":"/groups","id":"3"},
+  {"name":"profile", "path":"/profile","id":"4"},
+  {"name":"sign up", "path":"/signup","id":"5"},
+  {"name":"sign up", "path":"/signin","id":"6"}
+]

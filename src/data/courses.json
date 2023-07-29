@@ -1,0 +1,39 @@
+[
+{
+  "id":"1",
+  "name":"HTML/CSS",
+  "modules":[
+    {
+      "name":"Основи HTML. Частина 1",
+      "webinar":"https://www.youtube.com/embed/k6IxRD5BEXY",
+      "repository":"https://"
+    },
+    {
+      "name":"Основи HTML. Частина 2",
+          "webinar":"https://www.youtube.com/embed/lKAVnNi9ZCM",
+      "repository":"https://"
+    },
+    {
+      "name":"Основи CSS. Колір та селектори",
+          "webinar":"https://www.youtube.com/embed/bn9yIxt_rtg",
+      "repository":"https://"
+    }
+  ]
+},
+{  "id":"2",
+  "name":"REACT",
+  "modules":[
+    {"name":"Модуль 1. Заняття 1. Raect основи",
+     "webinar":"https://www.youtube.com/embed/jy7ElyM6m7I", 
+     "repository":"1"
+    },
+    {"name":"Модуль 1. Заняття 2. Стилізяція ", 
+    "webinar":"https://www.youtube.com/embed/XRs3v6pNOH8",
+     "repository":"1"
+    },
+    {"name":"Модуль 2. Заняття 3.", 
+    "webinar":"https://www.youtube.com/embed/nLdbvJ5KVQw",
+     "repository":"1"}
+  ]
+}
+]
